@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Jour 02 | Job 01</title>
+    <script src="script.js"></script>
 </head>
 
 <body>

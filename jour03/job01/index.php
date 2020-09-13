@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Jour 02 | Job 03</title>
+    <title>Jour 03 | Job 01</title>
     <script src="script.js"></script>
 </head>
 
@@ -13,9 +13,8 @@
 
     <main>
 
-    <article id ="compteur" >0</article>
-
-    <button id= "button">Valider</button>
+        <button id="button">SHOW</button>
+        <button id=hide>HIDE</button>
 
     </main>
 
